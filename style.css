@@ -1,0 +1,101 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+html{
+    scroll-behavior: smooth
+}
+
+header {
+    width: 100%;
+    height: 101vh;
+    background: url(hbd.png) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.btn {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 500px;
+    
+}
+
+.card-deck {
+    margin-top: 5rem;
+    align-items: center;
+}
+
+.card-body {
+    text-align: left;
+}
+
+#myCarousel {
+   margin-top: 8rem;
+  
+}
+
+.item {
+    height: 600px;
+}
+
+#ins {
+    height: 600px;
+    width: auto;
+}
+
+#video {
+    height: 400px;
+    width: auto;
+    margin-left: 10px;
+}
+
+.videos {
+    margin-top: 5rem;
+    padding: 100px;
+    background-color: #d5e4ec;
+    
+}
+
+.caption {
+    margin-top: 10rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    text-align: center;
+}
+.paper {
+    width: 700px;
+    height: auto;
+    align-items: center;
+
+}
+
+.greetings {
+    height: 350px;
+    width: auto;
+    margin-bottom: 25rem;
+}
+
+.last {
+    background-color: #d5e4ec;
+}
+
+.last h3 {
+    margin-top: 10rem;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    text-align: center;
+}
+
+.card-deck h5 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder
+}
+
+.card-deck p {
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
